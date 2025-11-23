@@ -1,0 +1,11 @@
+transaction_id,date,user_segment,feature_name,quantity,unit_price_usd,session_revenue_usd,tokens_used,response_time_ms,feedback_score,country
+T1001,2024-01-15,free,smart_reply,1,0,0,120,320,4,US
+T1002,2024-01-15,premium,data_extraction,1,5,5,850,780,5,CA
+T1003,2024-01-16,free,translation,1,0,0,200,450,3,IN
+T1004,2024-01-16,premium,smart_reply,1,5,5,150,300,4,US
+T1005,2024-01-17,premium,document_summary,1,10,10,900,1200,5,UK
+T1006,2024-01-17,free,translation,1,0,0,180,500,2,US
+T1007,2024-01-18,premium,smart_reply,1,5,5,160,280,4,CA
+T1008,2024-01-18,free,smart_reply,1,0,0,100,350,3,IN
+T1009,2024-02-01,premium,data_extraction,1,5,5,780,700,5,US
+T1010,2024-02-01,premium,document_summary,1,10,10,1100,1500,5,US
